@@ -1,0 +1,6272 @@
+[
+  {
+    "transaction_id": "TXN00000",
+    "meta_info": {
+      "timestamp": "2023-04-13",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3570
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 36
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00001",
+    "meta_info": {
+      "timestamp": "2023-11-10",
+      "city": "Pokhara",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3491
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00002",
+    "meta_info": {
+      "timestamp": "2024-04-29",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4366
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00003",
+    "meta_info": {
+      "timestamp": "2024-03-19",
+      "city": "Pokhara",
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 3,
+      "unit_price": 1164
+    },
+    "customer": {
+      "gender": null,
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00004",
+    "meta_info": {
+      "timestamp": "2023-06-11",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2776
+    },
+    "customer": {
+      "gender": null,
+      "age": 54
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00005",
+    "meta_info": {
+      "timestamp": "2023-02-10",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2516
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00006",
+    "meta_info": {
+      "timestamp": "2023-09-18",
+      "city": "Kathmandu",
+      "store": "New Road"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 4191
+    },
+    "customer": {
+      "gender": null,
+      "age": 48
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00007",
+    "meta_info": {
+      "timestamp": "2024-04-06",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 946
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00008",
+    "meta_info": {
+      "timestamp": "2023-08-29",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2760
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00009",
+    "meta_info": {
+      "timestamp": "2023-10-11",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3459
+    },
+    "customer": {
+      "gender": null,
+      "age": "unknown"
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00010",
+    "meta_info": {
+      "timestamp": "2024-01-20",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "",
+      "quantity": 1,
+      "unit_price": 4147
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00011",
+    "meta_info": {
+      "timestamp": "2024-01-09",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 833
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00012",
+    "meta_info": {
+      "timestamp": "2023-08-08",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 3880
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00013",
+    "meta_info": {
+      "timestamp": "2023-10-07",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3483
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00014",
+    "meta_info": {
+      "timestamp": "2023-05-28",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 802
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 54
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00015",
+    "meta_info": {
+      "timestamp": "2023-10-25",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3772
+    },
+    "customer": {
+      "gender": null,
+      "age": 16
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00016",
+    "meta_info": {
+      "timestamp": "2023-08-21",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3336
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00017",
+    "meta_info": {
+      "timestamp": "2023-04-22",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 1021
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00018",
+    "meta_info": {
+      "timestamp": "2024-02-02",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 560
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "Bank Transfer",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00019",
+    "meta_info": {
+      "timestamp": "2023-02-07",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 4269
+    },
+    "customer": {
+      "gender": 99,
+      "age": 44
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00020",
+    "meta_info": {
+      "timestamp": "2023-02-18",
+      "city": null,
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 1115
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 55
+    },
+    "payment_method": null,
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00021",
+    "meta_info": {
+      "timestamp": "2023-09-10",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 3,
+      "unit_price": 698
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": "???",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00022",
+    "meta_info": {
+      "timestamp": "2023-05-07",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2587
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 53
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00023",
+    "meta_info": {
+      "timestamp": "2023-11-09",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2707
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00024",
+    "meta_info": {
+      "timestamp": "2023-05-05",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2350
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 51
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00025",
+    "meta_info": {
+      "timestamp": "2024-04-24",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3304
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00026",
+    "meta_info": {
+      "timestamp": "2023-08-17",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 657
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": "Card",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00027",
+    "meta_info": {
+      "timestamp": "2023-03-10",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 871
+    },
+    "customer": {
+      "gender": 99,
+      "age": 36
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00028",
+    "meta_info": {
+      "timestamp": "2023-08-26",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 2,
+      "unit_price": 3346
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00029",
+    "meta_info": {
+      "timestamp": "2023-06-29",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 921
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00030",
+    "meta_info": {
+      "timestamp": "2023-06-27",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 3,
+      "unit_price": 759
+    },
+    "customer": {
+      "gender": null,
+      "age": 17
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00031",
+    "meta_info": {
+      "timestamp": "2023-10-29",
+      "city": null,
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2855
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00032",
+    "meta_info": {
+      "timestamp": "2023-03-16",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2495
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 51
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00033",
+    "meta_info": {
+      "timestamp": "2023-06-01",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 1147
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 49
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00034",
+    "meta_info": {
+      "timestamp": "2024-02-01",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 661
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00035",
+    "meta_info": {
+      "timestamp": "2023-04-09",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3805
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 53
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00036",
+    "meta_info": {
+      "timestamp": "2023-08-03",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2697
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 58
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00037",
+    "meta_info": {
+      "timestamp": "2023-01-05",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 792
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00038",
+    "meta_info": {
+      "timestamp": "2023-12-30",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 469
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 59
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00039",
+    "meta_info": {
+      "timestamp": "2024-02-27",
+      "city": "Pokhara",
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3775
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00040",
+    "meta_info": {
+      "timestamp": "2023-10-30",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 955
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00041",
+    "meta_info": {
+      "timestamp": "2024-01-08",
+      "city": "Kathmandu",
+      "store": "Baneshwor"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2604
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00042",
+    "meta_info": {
+      "timestamp": "2023-03-31",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3672
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00043",
+    "meta_info": {
+      "timestamp": "2023-02-15",
+      "city": "Kathmandu",
+      "store": "New Road"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 1060
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00044",
+    "meta_info": {
+      "timestamp": "2023-10-16",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2304
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00045",
+    "meta_info": {
+      "timestamp": "2023-04-15",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": 123,
+      "quantity": 2,
+      "unit_price": 4260
+    },
+    "customer": {
+      "gender": 99,
+      "age": 45
+    },
+    "payment_method": "???",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00046",
+    "meta_info": {
+      "timestamp": "2024-04-02",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 3822
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00047",
+    "meta_info": {
+      "timestamp": "2023-03-13",
+      "city": null,
+      "store": "New Road"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 1087
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 26
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00048",
+    "meta_info": {
+      "timestamp": "2023-07-26",
+      "city": "Biratnagar",
+      "store": "Main Road"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3700
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00049",
+    "meta_info": {
+      "timestamp": "2023-11-04",
+      "city": "Pokhara",
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2634
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 31
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00050",
+    "meta_info": {
+      "timestamp": "2023-12-06",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 2,
+      "unit_price": 3483
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00051",
+    "meta_info": {
+      "timestamp": "2024-02-04",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 3982
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00052",
+    "meta_info": {
+      "timestamp": "2023-01-05",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 450
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00053",
+    "meta_info": {
+      "timestamp": "2023-10-09",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2377
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00054",
+    "meta_info": {
+      "timestamp": "2023-02-25",
+      "city": "Kathmandu",
+      "store": "New Road"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 852
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00055",
+    "meta_info": {
+      "timestamp": "2023-10-21",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 4162
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 53
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00056",
+    "meta_info": {
+      "timestamp": "2023-03-09",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2836
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00057",
+    "meta_info": {
+      "timestamp": "2023-10-09",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3853
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 47
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00058",
+    "meta_info": {
+      "timestamp": "2023-04-05",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": null
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00059",
+    "meta_info": {
+      "timestamp": "2024-01-04",
+      "city": "Bhaktapur",
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2374
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00060",
+    "meta_info": {
+      "timestamp": "2023-07-31",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 725
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00061",
+    "meta_info": {
+      "timestamp": "2023-06-27",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 658
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 34
+    },
+    "payment_method": null,
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00062",
+    "meta_info": {
+      "timestamp": "2023-11-01",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 1149
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00063",
+    "meta_info": {
+      "timestamp": "2023-11-16",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4312
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 35
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00064",
+    "meta_info": {
+      "timestamp": "2023-08-25",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 3877
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 52
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00065",
+    "meta_info": {
+      "timestamp": "2023-11-05",
+      "city": "Kathmandu",
+      "store": "Baneshwor"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 824
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00066",
+    "meta_info": {
+      "timestamp": "2023-02-07",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 877
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00067",
+    "meta_info": {
+      "timestamp": "2023-08-16",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 517
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00068",
+    "meta_info": {
+      "timestamp": "2023-10-09",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 2,
+      "unit_price": 2394
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00069",
+    "meta_info": {
+      "timestamp": "2023-05-13",
+      "city": "Pokhara",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 859
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00070",
+    "meta_info": {
+      "timestamp": "2023-12-12",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 2,
+      "unit_price": 806
+    },
+    "customer": {
+      "gender": 99,
+      "age": 23
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00071",
+    "meta_info": {
+      "timestamp": "2024-02-29",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2612
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00072",
+    "meta_info": {
+      "timestamp": "2023-06-29",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 778
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00073",
+    "meta_info": {
+      "timestamp": "2023-12-08",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 3,
+      "unit_price": 683
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00074",
+    "meta_info": {
+      "timestamp": "2024-03-04",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4117
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00075",
+    "meta_info": {
+      "timestamp": "2024-01-20",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 4,
+      "unit_price": 821
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00076",
+    "meta_info": {
+      "timestamp": "2023-09-04",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3690
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": "E-wallet",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00077",
+    "meta_info": {
+      "timestamp": "2023-03-19",
+      "city": "Bhaktapur",
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 4,
+      "unit_price": 863
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00078",
+    "meta_info": {
+      "timestamp": "2024-02-07",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2450
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00079",
+    "meta_info": {
+      "timestamp": "2023-08-10",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4331
+    },
+    "customer": {
+      "gender": null,
+      "age": 38
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00080",
+    "meta_info": {
+      "timestamp": "2024-03-25",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 3914
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 43
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00081",
+    "meta_info": {
+      "timestamp": "2023-02-10",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 2,
+      "unit_price": 545
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00082",
+    "meta_info": {
+      "timestamp": "2023-09-25",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 4086
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00083",
+    "meta_info": {
+      "timestamp": "2024-01-06",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2662
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00084",
+    "meta_info": {
+      "timestamp": "2023-05-28",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 2,
+      "unit_price": 2611
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 48
+    },
+    "payment_method": "Card",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00085",
+    "meta_info": {
+      "timestamp": "2023-01-17",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 2,
+      "unit_price": 2372
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": null,
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00086",
+    "meta_info": {
+      "timestamp": "2023-10-02",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3734
+    },
+    "customer": {
+      "gender": "Male",
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00087",
+    "meta_info": {
+      "timestamp": "2023-01-25",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 2,
+      "unit_price": 884
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00088",
+    "meta_info": {
+      "timestamp": "2023-04-27",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 2,
+      "unit_price": 2385
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "???",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00089",
+    "meta_info": {
+      "timestamp": "2023-01-14",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3701
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00090",
+    "meta_info": {
+      "timestamp": "2023-07-29",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 2,
+      "unit_price": 3815
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00091",
+    "meta_info": {
+      "timestamp": "2024-01-14",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 3940
+    },
+    "customer": {
+      "gender": 99,
+      "age": 58
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00092",
+    "meta_info": {
+      "timestamp": "2023-06-26",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 958
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00093",
+    "meta_info": {
+      "timestamp": "2023-05-20",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 798
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00094",
+    "meta_info": {
+      "timestamp": "2023-11-06",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3870
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 55
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00095",
+    "meta_info": {
+      "timestamp": "2023-04-09",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 3853
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00096",
+    "meta_info": {
+      "timestamp": "2023-03-09",
+      "city": "Biratnagar",
+      "store": "Main Road"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 3919
+    },
+    "customer": {
+      "gender": null,
+      "age": 43
+    },
+    "payment_method": "E-wallet",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00097",
+    "meta_info": {
+      "timestamp": "2024-04-07",
+      "city": "Pokhara",
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 931
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00098",
+    "meta_info": {
+      "timestamp": "2024-04-05",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 2,
+      "unit_price": 2615
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00099",
+    "meta_info": {
+      "timestamp": "2023-06-17",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 4088
+    },
+    "customer": {
+      "gender": 99,
+      "age": 39
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00100",
+    "meta_info": {
+      "timestamp": "2023-02-14",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 2,
+      "unit_price": 3721
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00101",
+    "meta_info": {
+      "timestamp": "2023-08-12",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3888
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 38
+    },
+    "payment_method": "E-wallet",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00102",
+    "meta_info": {
+      "timestamp": "2023-03-01",
+      "city": "Pokhara",
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4032
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00103",
+    "meta_info": {
+      "timestamp": "2023-11-02",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3321
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00104",
+    "meta_info": {
+      "timestamp": "2024-04-15",
+      "city": "Kathmandu",
+      "store": "New Road"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 3878
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00105",
+    "meta_info": {
+      "timestamp": "2024-04-03",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 529
+    },
+    "customer": {
+      "gender": 99,
+      "age": 30
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00106",
+    "meta_info": {
+      "timestamp": "2024-01-15",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3752
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00107",
+    "meta_info": {
+      "timestamp": "2023-01-08",
+      "city": "Bhaktapur",
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 4229
+    },
+    "customer": {
+      "gender": null,
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00108",
+    "meta_info": {
+      "timestamp": "2024-03-30",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 4357
+    },
+    "customer": {
+      "gender": "Male",
+      "age": null
+    },
+    "payment_method": null,
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00109",
+    "meta_info": {
+      "timestamp": "2023-07-28",
+      "city": null,
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 2,
+      "unit_price": 743
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 59
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00110",
+    "meta_info": {
+      "timestamp": "2023-02-10",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3691
+    },
+    "customer": {
+      "gender": null,
+      "age": 34
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00111",
+    "meta_info": {
+      "timestamp": "2024-02-18",
+      "city": null,
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2301
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00112",
+    "meta_info": {
+      "timestamp": "2023-09-19",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3616
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00113",
+    "meta_info": {
+      "timestamp": "2024-02-14",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4007
+    },
+    "customer": {
+      "gender": "Female",
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00114",
+    "meta_info": {
+      "timestamp": "2023-08-26",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 700
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00115",
+    "meta_info": {
+      "timestamp": "2024-02-16",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4151
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00116",
+    "meta_info": {
+      "timestamp": "2023-12-30",
+      "city": "Pokhara",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 423
+    },
+    "customer": {
+      "gender": "Male",
+      "age": null
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00117",
+    "meta_info": {
+      "timestamp": "2023-10-22",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2877
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00118",
+    "meta_info": {
+      "timestamp": "2023-10-25",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 1119
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00119",
+    "meta_info": {
+      "timestamp": "2023-05-10",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3313
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 51
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00120",
+    "meta_info": {
+      "timestamp": "2023-01-10",
+      "city": "Bhaktapur",
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3600
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 15
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00121",
+    "meta_info": {
+      "timestamp": "2023-10-11",
+      "city": null,
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4312
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00122",
+    "meta_info": {
+      "timestamp": "2023-10-20",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3633
+    },
+    "customer": {
+      "gender": 99,
+      "age": 19
+    },
+    "payment_method": "Cash",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00123",
+    "meta_info": {
+      "timestamp": "2023-09-08",
+      "city": null,
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 4289
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00124",
+    "meta_info": {
+      "timestamp": "2024-01-10",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3607
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00125",
+    "meta_info": {
+      "timestamp": "2023-05-25",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 4,
+      "unit_price": 1026
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 18
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00126",
+    "meta_info": {
+      "timestamp": "2023-08-08",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 4103
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 27
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00127",
+    "meta_info": {
+      "timestamp": "2023-05-12",
+      "city": "Kathmandu",
+      "store": "New Road"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 723
+    },
+    "customer": {
+      "gender": 99,
+      "age": 25
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00128",
+    "meta_info": {
+      "timestamp": "2024-02-09",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 664
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00129",
+    "meta_info": {
+      "timestamp": "2024-03-25",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 3802
+    },
+    "customer": {
+      "gender": "Female",
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00130",
+    "meta_info": {
+      "timestamp": "2024-01-14",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3642
+    },
+    "customer": {
+      "gender": 99,
+      "age": 29
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00131",
+    "meta_info": {
+      "timestamp": "2023-10-17",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4123
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00132",
+    "meta_info": {
+      "timestamp": "2023-12-11",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 2,
+      "unit_price": 3301
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 56
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00133",
+    "meta_info": {
+      "timestamp": "2023-06-21",
+      "city": null,
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3751
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00134",
+    "meta_info": {
+      "timestamp": "2023-06-19",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2309
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00135",
+    "meta_info": {
+      "timestamp": "2024-04-27",
+      "city": "Pokhara",
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 1038
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00136",
+    "meta_info": {
+      "timestamp": "2024-02-13",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4389
+    },
+    "customer": {
+      "gender": 99,
+      "age": 53
+    },
+    "payment_method": "Cash",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00137",
+    "meta_info": {
+      "timestamp": "2023-02-11",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4101
+    },
+    "customer": {
+      "gender": null,
+      "age": 17
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00138",
+    "meta_info": {
+      "timestamp": "2024-03-03",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4360
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00139",
+    "meta_info": {
+      "timestamp": "2023-04-26",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2508
+    },
+    "customer": {
+      "gender": "Male",
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00140",
+    "meta_info": {
+      "timestamp": "2023-05-24",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 4,
+      "unit_price": null
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 44
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00141",
+    "meta_info": {
+      "timestamp": "2023-05-22",
+      "city": "Kathmandu",
+      "store": "New Road"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2759
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 23
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00142",
+    "meta_info": {
+      "timestamp": "2023-09-19",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4206
+    },
+    "customer": {
+      "gender": "Female",
+      "age": -5
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00143",
+    "meta_info": {
+      "timestamp": "2023-06-07",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2728
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00144",
+    "meta_info": {
+      "timestamp": "2023-09-23",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2765
+    },
+    "customer": {
+      "gender": "Male",
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00145",
+    "meta_info": {
+      "timestamp": "2023-04-27",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 882
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00146",
+    "meta_info": {
+      "timestamp": "2023-09-11",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 846
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 24
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00147",
+    "meta_info": {
+      "timestamp": "2024-04-15",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4052
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00148",
+    "meta_info": {
+      "timestamp": "2023-11-04",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 3,
+      "unit_price": 1151
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00149",
+    "meta_info": {
+      "timestamp": "2023-03-03",
+      "city": "Biratnagar",
+      "store": "Main Road"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3897
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 53
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00150",
+    "meta_info": {
+      "timestamp": "2024-04-29",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 641
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00151",
+    "meta_info": {
+      "timestamp": "2024-03-11",
+      "city": "Bhaktapur",
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2893
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 23
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00152",
+    "meta_info": {
+      "timestamp": "2023-11-10",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2859
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00153",
+    "meta_info": {
+      "timestamp": "2024-03-24",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 772
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00154",
+    "meta_info": {
+      "timestamp": "2024-01-01",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 3,
+      "unit_price": 747
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00155",
+    "meta_info": {
+      "timestamp": "2023-12-03",
+      "city": "Pokhara",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 949
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 17
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00156",
+    "meta_info": {
+      "timestamp": "2023-09-12",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3468
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00157",
+    "meta_info": {
+      "timestamp": "2023-07-02",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2821
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00158",
+    "meta_info": {
+      "timestamp": "2024-01-11",
+      "city": "Biratnagar",
+      "store": "Main Road"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3471
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00159",
+    "meta_info": {
+      "timestamp": "2023-08-24",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 701
+    },
+    "customer": {
+      "gender": null,
+      "age": 43
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00160",
+    "meta_info": {
+      "timestamp": "2023-04-05",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2512
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00161",
+    "meta_info": {
+      "timestamp": "2023-05-08",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 3829
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00162",
+    "meta_info": {
+      "timestamp": "2024-04-17",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3523
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 27
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00163",
+    "meta_info": {
+      "timestamp": "2023-07-28",
+      "city": null,
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3613
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "???",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00164",
+    "meta_info": {
+      "timestamp": "2024-01-29",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 3931
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00165",
+    "meta_info": {
+      "timestamp": "2023-03-12",
+      "city": "Bhaktapur",
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3356
+    },
+    "customer": {
+      "gender": null,
+      "age": "unknown"
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00166",
+    "meta_info": {
+      "timestamp": "2024-02-07",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2458
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 52
+    },
+    "payment_method": "Bank Transfer",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00167",
+    "meta_info": {
+      "timestamp": "2023-05-26",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 4149
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 59
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00168",
+    "meta_info": {
+      "timestamp": "2023-03-19",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3346
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00169",
+    "meta_info": {
+      "timestamp": "2023-12-31",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 2,
+      "unit_price": 653
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00170",
+    "meta_info": {
+      "timestamp": "2023-03-31",
+      "city": "Kathmandu",
+      "store": "New Road"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3373
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00171",
+    "meta_info": {
+      "timestamp": "2024-02-12",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3847
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "???",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00172",
+    "meta_info": {
+      "timestamp": "2023-08-16",
+      "city": null,
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2504
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00173",
+    "meta_info": {
+      "timestamp": "2024-02-09",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 2,
+      "unit_price": 2447
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00174",
+    "meta_info": {
+      "timestamp": "2024-01-19",
+      "city": "Pokhara",
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4104
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00175",
+    "meta_info": {
+      "timestamp": "2023-06-18",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 1172
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00176",
+    "meta_info": {
+      "timestamp": "2023-04-08",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 2,
+      "unit_price": 421
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00177",
+    "meta_info": {
+      "timestamp": "2024-01-07",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 3,
+      "unit_price": 1131
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00178",
+    "meta_info": {
+      "timestamp": "2023-09-05",
+      "city": "Pokhara",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 625
+    },
+    "customer": {
+      "gender": null,
+      "age": 37
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00179",
+    "meta_info": {
+      "timestamp": "2023-01-08",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2606
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00180",
+    "meta_info": {
+      "timestamp": "2023-12-02",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2767
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 42
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00181",
+    "meta_info": {
+      "timestamp": "2023-10-02",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3559
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00182",
+    "meta_info": {
+      "timestamp": "2023-05-08",
+      "city": null,
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2401
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00183",
+    "meta_info": {
+      "timestamp": "2024-03-09",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 875
+    },
+    "customer": {
+      "gender": null,
+      "age": 58
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00184",
+    "meta_info": {
+      "timestamp": "2023-10-04",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2887
+    },
+    "customer": {
+      "gender": "Female",
+      "age": -5
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00185",
+    "meta_info": {
+      "timestamp": "2023-11-21",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2578
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00186",
+    "meta_info": {
+      "timestamp": "2023-05-04",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 3846
+    },
+    "customer": {
+      "gender": "Female",
+      "age": -5
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00187",
+    "meta_info": {
+      "timestamp": "2023-05-22",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 712
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00188",
+    "meta_info": {
+      "timestamp": "2023-04-10",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4153
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 34
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00189",
+    "meta_info": {
+      "timestamp": "2023-10-02",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 2,
+      "unit_price": 2382
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00190",
+    "meta_info": {
+      "timestamp": "2024-01-11",
+      "city": "Biratnagar",
+      "store": "Main Road"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 864
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00191",
+    "meta_info": {
+      "timestamp": "2023-07-02",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 2,
+      "unit_price": 3897
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00192",
+    "meta_info": {
+      "timestamp": "2024-04-09",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 600
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00193",
+    "meta_info": {
+      "timestamp": "2023-10-03",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 4205
+    },
+    "customer": {
+      "gender": null,
+      "age": "unknown"
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00194",
+    "meta_info": {
+      "timestamp": "2023-12-27",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 3993
+    },
+    "customer": {
+      "gender": "Male",
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00195",
+    "meta_info": {
+      "timestamp": "2023-04-19",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4179
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 27
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00196",
+    "meta_info": {
+      "timestamp": "2023-12-19",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 4,
+      "unit_price": 789
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 55
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00197",
+    "meta_info": {
+      "timestamp": "2024-02-27",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 1128
+    },
+    "customer": {
+      "gender": 99,
+      "age": 59
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00198",
+    "meta_info": {
+      "timestamp": "2023-09-25",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 4383
+    },
+    "customer": {
+      "gender": 99,
+      "age": 22
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00199",
+    "meta_info": {
+      "timestamp": "2023-03-23",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 723
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 29
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00200",
+    "meta_info": {
+      "timestamp": "2023-09-23",
+      "city": "Kathmandu",
+      "store": "Baneshwor"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 601
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00201",
+    "meta_info": {
+      "timestamp": "2023-03-22",
+      "city": "Pokhara",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 786
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 51
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00202",
+    "meta_info": {
+      "timestamp": "2023-10-04",
+      "city": "Kathmandu",
+      "store": "New Road"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 878
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00203",
+    "meta_info": {
+      "timestamp": "2023-02-10",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3750
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00204",
+    "meta_info": {
+      "timestamp": "2023-07-12",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2306
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00205",
+    "meta_info": {
+      "timestamp": "2023-04-26",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 4375
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00206",
+    "meta_info": {
+      "timestamp": "2023-12-29",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4356
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": null,
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00207",
+    "meta_info": {
+      "timestamp": "2023-03-28",
+      "city": "Biratnagar",
+      "store": "Main Road"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2848
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 31
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00208",
+    "meta_info": {
+      "timestamp": "2023-12-31",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3464
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00209",
+    "meta_info": {
+      "timestamp": "2023-04-02",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 538
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00210",
+    "meta_info": {
+      "timestamp": "2023-01-05",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2464
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00211",
+    "meta_info": {
+      "timestamp": "2024-04-20",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 2,
+      "unit_price": 645
+    },
+    "customer": {
+      "gender": "Male",
+      "age": null
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00212",
+    "meta_info": {
+      "timestamp": "2023-04-12",
+      "city": "Bhaktapur",
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3881
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00213",
+    "meta_info": {
+      "timestamp": "2023-11-24",
+      "city": "Pokhara",
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 4164
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00214",
+    "meta_info": {
+      "timestamp": "2023-04-24",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 893
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00215",
+    "meta_info": {
+      "timestamp": "2023-10-30",
+      "city": "Kathmandu",
+      "store": "New Road"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2846
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00216",
+    "meta_info": {
+      "timestamp": "2023-05-16",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 948
+    },
+    "customer": {
+      "gender": "Male",
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00217",
+    "meta_info": {
+      "timestamp": "2024-04-05",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": 123,
+      "quantity": 3,
+      "unit_price": 3654
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 54
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00218",
+    "meta_info": {
+      "timestamp": "2024-03-25",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2657
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "???",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00219",
+    "meta_info": {
+      "timestamp": "2023-08-21",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 4030
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00220",
+    "meta_info": {
+      "timestamp": "2023-06-09",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2783
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Card",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00221",
+    "meta_info": {
+      "timestamp": "2023-02-18",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3653
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00222",
+    "meta_info": {
+      "timestamp": "2023-04-17",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 4,
+      "unit_price": 756
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00223",
+    "meta_info": {
+      "timestamp": "2024-02-17",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": "free"
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00224",
+    "meta_info": {
+      "timestamp": "2024-03-06",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 935
+    },
+    "customer": {
+      "gender": 99,
+      "age": 56
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00225",
+    "meta_info": {
+      "timestamp": "2024-04-06",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3654
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00226",
+    "meta_info": {
+      "timestamp": "2024-04-25",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 765
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00227",
+    "meta_info": {
+      "timestamp": "2023-03-06",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3448
+    },
+    "customer": {
+      "gender": "Female",
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00228",
+    "meta_info": {
+      "timestamp": "2023-12-22",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2401
+    },
+    "customer": {
+      "gender": null,
+      "age": 38
+    },
+    "payment_method": "E-wallet",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00229",
+    "meta_info": {
+      "timestamp": "2023-12-06",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 4,
+      "unit_price": 977
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00230",
+    "meta_info": {
+      "timestamp": "2023-05-14",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2474
+    },
+    "customer": {
+      "gender": null,
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00231",
+    "meta_info": {
+      "timestamp": "2023-11-27",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 627
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00232",
+    "meta_info": {
+      "timestamp": "2023-03-20",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 2,
+      "unit_price": 556
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00233",
+    "meta_info": {
+      "timestamp": "2024-05-06",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4077
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 25
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00234",
+    "meta_info": {
+      "timestamp": "2023-04-12",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3790
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 40
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00235",
+    "meta_info": {
+      "timestamp": "2024-03-09",
+      "city": "Bhaktapur",
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 760
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00236",
+    "meta_info": {
+      "timestamp": "2024-04-22",
+      "city": "Pokhara",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2601
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 25
+    },
+    "payment_method": "Card",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00237",
+    "meta_info": {
+      "timestamp": "2023-12-21",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4291
+    },
+    "customer": {
+      "gender": null,
+      "age": 25
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00238",
+    "meta_info": {
+      "timestamp": "2024-01-25",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2610
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 57
+    },
+    "payment_method": "Card",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00239",
+    "meta_info": {
+      "timestamp": "2024-05-09",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2661
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 36
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00240",
+    "meta_info": {
+      "timestamp": "2023-04-11",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3720
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00241",
+    "meta_info": {
+      "timestamp": "2023-01-10",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 748
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 46
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00242",
+    "meta_info": {
+      "timestamp": "2023-04-23",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 1003
+    },
+    "customer": {
+      "gender": 99,
+      "age": 34
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00243",
+    "meta_info": {
+      "timestamp": "2024-02-08",
+      "city": "Bhaktapur",
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2413
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 15
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00244",
+    "meta_info": {
+      "timestamp": "2024-03-10",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2879
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 54
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00245",
+    "meta_info": {
+      "timestamp": "2023-08-09",
+      "city": "Pokhara",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3383
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00246",
+    "meta_info": {
+      "timestamp": "2023-07-08",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4166
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 37
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00247",
+    "meta_info": {
+      "timestamp": "2023-09-06",
+      "city": "Biratnagar",
+      "store": "Main Road"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 2,
+      "unit_price": 653
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00248",
+    "meta_info": {
+      "timestamp": "2023-06-18",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 2,
+      "unit_price": 3337
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00249",
+    "meta_info": {
+      "timestamp": "2023-01-22",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 4,
+      "unit_price": 646
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00250",
+    "meta_info": {
+      "timestamp": "2023-09-30",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2779
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": "Cash",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00251",
+    "meta_info": {
+      "timestamp": "2023-04-14",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 3880
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 53
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00252",
+    "meta_info": {
+      "timestamp": "2023-05-21",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 3,
+      "unit_price": 1017
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00253",
+    "meta_info": {
+      "timestamp": "2023-05-08",
+      "city": "Kathmandu",
+      "store": "Durbar Marg"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 4,
+      "unit_price": 1073
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00254",
+    "meta_info": {
+      "timestamp": "2024-04-25",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 714
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00255",
+    "meta_info": {
+      "timestamp": "2024-03-03",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 4257
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00256",
+    "meta_info": {
+      "timestamp": "2023-04-23",
+      "city": null,
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 4299
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 19
+    },
+    "payment_method": "Bank Transfer",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00257",
+    "meta_info": {
+      "timestamp": "2023-01-19",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 432
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00258",
+    "meta_info": {
+      "timestamp": "2023-07-21",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 4203
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00259",
+    "meta_info": {
+      "timestamp": "2023-08-07",
+      "city": "Kathmandu",
+      "store": "Baneshwor"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 2,
+      "unit_price": 3381
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00260",
+    "meta_info": {
+      "timestamp": "2023-06-06",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 2,
+      "unit_price": 2738
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "Card",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00261",
+    "meta_info": {
+      "timestamp": "2024-04-25",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 533
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00262",
+    "meta_info": {
+      "timestamp": "2024-03-10",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4065
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00263",
+    "meta_info": {
+      "timestamp": "2023-03-24",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 667
+    },
+    "customer": {
+      "gender": "Male",
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00264",
+    "meta_info": {
+      "timestamp": "2024-01-02",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": null
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00265",
+    "meta_info": {
+      "timestamp": "2024-04-24",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": "free"
+    },
+    "customer": {
+      "gender": "Female",
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00266",
+    "meta_info": {
+      "timestamp": "2023-04-04",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2613
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00267",
+    "meta_info": {
+      "timestamp": "2024-01-25",
+      "city": "Pokhara",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4293
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00268",
+    "meta_info": {
+      "timestamp": "2023-08-18",
+      "city": "Pokhara",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 844
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00269",
+    "meta_info": {
+      "timestamp": "2023-05-15",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 3984
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00270",
+    "meta_info": {
+      "timestamp": "2024-05-11",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 3,
+      "unit_price": 637
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00271",
+    "meta_info": {
+      "timestamp": "2023-08-22",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 2,
+      "unit_price": 595
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00272",
+    "meta_info": {
+      "timestamp": "2023-04-07",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 576
+    },
+    "customer": {
+      "gender": "Male",
+      "age": null
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00273",
+    "meta_info": {
+      "timestamp": "2023-10-12",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 2,
+      "unit_price": 3713
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00274",
+    "meta_info": {
+      "timestamp": "2024-02-18",
+      "city": null,
+      "store": null
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2317
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00275",
+    "meta_info": {
+      "timestamp": "2023-09-03",
+      "city": "Bhaktapur",
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2310
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "Cash",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00276",
+    "meta_info": {
+      "timestamp": "2024-03-24",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 794
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00277",
+    "meta_info": {
+      "timestamp": "2023-03-12",
+      "city": "Biratnagar",
+      "store": "Main Road"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 694
+    },
+    "customer": {
+      "gender": 99,
+      "age": 15
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00278",
+    "meta_info": {
+      "timestamp": "2023-01-29",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 4,
+      "unit_price": null
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 43
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00279",
+    "meta_info": {
+      "timestamp": "2023-07-25",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 963
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 44
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00280",
+    "meta_info": {
+      "timestamp": "2023-12-26",
+      "city": "Pokhara",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 4333
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 27
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00281",
+    "meta_info": {
+      "timestamp": "2023-11-16",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3622
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00282",
+    "meta_info": {
+      "timestamp": "2023-06-08",
+      "city": "Pokhara",
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 3861
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00283",
+    "meta_info": {
+      "timestamp": "2023-01-29",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2654
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00284",
+    "meta_info": {
+      "timestamp": "2024-03-01",
+      "city": "Pokhara",
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 2,
+      "unit_price": 889
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 54
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00285",
+    "meta_info": {
+      "timestamp": "2023-08-06",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2599
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 52
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00286",
+    "meta_info": {
+      "timestamp": "2024-02-09",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 3928
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00287",
+    "meta_info": {
+      "timestamp": "2023-09-14",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3639
+    },
+    "customer": {
+      "gender": 99,
+      "age": 20
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00288",
+    "meta_info": {
+      "timestamp": "2023-09-15",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4254
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00289",
+    "meta_info": {
+      "timestamp": "2023-12-13",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 879
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00290",
+    "meta_info": {
+      "timestamp": "2023-06-15",
+      "city": null,
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 4,
+      "unit_price": 4307
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00291",
+    "meta_info": {
+      "timestamp": "2023-01-29",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 1,
+      "unit_price": 537
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "E-wallet",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00292",
+    "meta_info": {
+      "timestamp": "2023-09-25",
+      "city": "Bhaktapur",
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2490
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00293",
+    "meta_info": {
+      "timestamp": "2023-03-16",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2866
+    },
+    "customer": {
+      "gender": "Male",
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00294",
+    "meta_info": {
+      "timestamp": "2023-08-02",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 792
+    },
+    "customer": {
+      "gender": "Female",
+      "age": -5
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00295",
+    "meta_info": {
+      "timestamp": "2023-05-11",
+      "city": "Bhaktapur",
+      "store": "Dattatreya"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 4095
+    },
+    "customer": {
+      "gender": "Male",
+      "age": null
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00296",
+    "meta_info": {
+      "timestamp": "2024-04-18",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2449
+    },
+    "customer": {
+      "gender": "Other",
+      "age": "unknown"
+    },
+    "payment_method": null,
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00297",
+    "meta_info": {
+      "timestamp": "2023-03-14",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 3980
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00298",
+    "meta_info": {
+      "timestamp": "2023-03-05",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3608
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00299",
+    "meta_info": {
+      "timestamp": "2023-10-20",
+      "city": "Pokhara",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2863
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 22
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00000",
+    "meta_info": {
+      "timestamp": "2023-04-13",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3570
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 36
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00001",
+    "meta_info": {
+      "timestamp": "2023-11-10",
+      "city": "Pokhara",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3491
+    },
+    "customer": {
+      "gender": "Female",
+      "age": "unknown"
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00002",
+    "meta_info": {
+      "timestamp": "2024-04-29",
+      "city": "Bhaktapur",
+      "store": "Suryabinayak"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 2,
+      "unit_price": 4366
+    },
+    "customer": {
+      "gender": null,
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00003",
+    "meta_info": {
+      "timestamp": "2024-03-19",
+      "city": "Pokhara",
+      "store": "Lakeside"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 3,
+      "unit_price": 1164
+    },
+    "customer": {
+      "gender": null,
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00004",
+    "meta_info": {
+      "timestamp": "2023-06-11",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2776
+    },
+    "customer": {
+      "gender": null,
+      "age": 54
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00005",
+    "meta_info": {
+      "timestamp": "2023-02-10",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 3,
+      "unit_price": 2516
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00006",
+    "meta_info": {
+      "timestamp": "2023-09-18",
+      "city": "Kathmandu",
+      "store": "New Road"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 4191
+    },
+    "customer": {
+      "gender": null,
+      "age": 48
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00007",
+    "meta_info": {
+      "timestamp": "2024-04-06",
+      "city": "Lalitpur",
+      "store": "Jawalakhel"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 3,
+      "unit_price": 946
+    },
+    "customer": {
+      "gender": "Other",
+      "age": -5
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00008",
+    "meta_info": {
+      "timestamp": "2023-08-29",
+      "city": "Bhaktapur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 1,
+      "unit_price": 2760
+    },
+    "customer": {
+      "gender": 99,
+      "age": -5
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00009",
+    "meta_info": {
+      "timestamp": "2023-10-11",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 1,
+      "unit_price": 3459
+    },
+    "customer": {
+      "gender": null,
+      "age": "unknown"
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00010",
+    "meta_info": {
+      "timestamp": "2024-01-20",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "",
+      "quantity": 1,
+      "unit_price": 4147
+    },
+    "customer": {
+      "gender": "Other",
+      "age": null
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00011",
+    "meta_info": {
+      "timestamp": "2024-01-09",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 833
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00012",
+    "meta_info": {
+      "timestamp": "2023-08-08",
+      "city": "Kathmandu",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 1,
+      "unit_price": 3880
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00013",
+    "meta_info": {
+      "timestamp": "2023-10-07",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 3,
+      "unit_price": 3483
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00014",
+    "meta_info": {
+      "timestamp": "2023-05-28",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 802
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 54
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00015",
+    "meta_info": {
+      "timestamp": "2023-10-25",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3772
+    },
+    "customer": {
+      "gender": null,
+      "age": 16
+    },
+    "payment_method": "???",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00016",
+    "meta_info": {
+      "timestamp": "2023-08-21",
+      "city": "Biratnagar",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3336
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00017",
+    "meta_info": {
+      "timestamp": "2023-04-22",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 1021
+    },
+    "customer": {
+      "gender": "Female",
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00018",
+    "meta_info": {
+      "timestamp": "2024-02-02",
+      "city": "Kathmandu",
+      "store": null
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 560
+    },
+    "customer": {
+      "gender": "Male",
+      "age": "unknown"
+    },
+    "payment_method": "Bank Transfer",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00019",
+    "meta_info": {
+      "timestamp": "2023-02-07",
+      "city": "Lalitpur",
+      "store": null
+    },
+    "basket": {
+      "product": "Jacket",
+      "quantity": 3,
+      "unit_price": 4269
+    },
+    "customer": {
+      "gender": 99,
+      "age": 44
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00020",
+    "meta_info": {
+      "timestamp": "2023-02-18",
+      "city": null,
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 1115
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 55
+    },
+    "payment_method": null,
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00021",
+    "meta_info": {
+      "timestamp": "2023-09-10",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 3,
+      "unit_price": 698
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": "???",
+    "status": "FAILED"
+  },
+  {
+    "transaction_id": "TXN00022",
+    "meta_info": {
+      "timestamp": "2023-05-07",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2587
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 53
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00023",
+    "meta_info": {
+      "timestamp": "2023-11-09",
+      "city": "Lalitpur",
+      "store": "UNKNOWN"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2707
+    },
+    "customer": {
+      "gender": null,
+      "age": -5
+    },
+    "payment_method": "Bank Transfer",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00024",
+    "meta_info": {
+      "timestamp": "2023-05-05",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Jeans",
+      "quantity": 4,
+      "unit_price": 2350
+    },
+    "customer": {
+      "gender": "Other",
+      "age": 51
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00025",
+    "meta_info": {
+      "timestamp": "2024-04-24",
+      "city": "Bhaktapur",
+      "store": null
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 4,
+      "unit_price": 3304
+    },
+    "customer": {
+      "gender": 99,
+      "age": null
+    },
+    "payment_method": "E-wallet",
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00026",
+    "meta_info": {
+      "timestamp": "2023-08-17",
+      "city": "Lalitpur",
+      "store": "Patan Dhoka"
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 1,
+      "unit_price": 657
+    },
+    "customer": {
+      "gender": "Male",
+      "age": -5
+    },
+    "payment_method": "Card",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00027",
+    "meta_info": {
+      "timestamp": "2023-03-10",
+      "city": "Biratnagar",
+      "store": null
+    },
+    "basket": {
+      "product": "T-Shirt",
+      "quantity": 2,
+      "unit_price": 871
+    },
+    "customer": {
+      "gender": 99,
+      "age": 36
+    },
+    "payment_method": null,
+    "status": "COMPLETED"
+  },
+  {
+    "transaction_id": "TXN00028",
+    "meta_info": {
+      "timestamp": "2023-08-26",
+      "city": "Biratnagar",
+      "store": "Traffic Chowk"
+    },
+    "basket": {
+      "product": "Sneakers",
+      "quantity": 2,
+      "unit_price": 3346
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "Cash",
+    "status": "RETURNED"
+  },
+  {
+    "transaction_id": "TXN00029",
+    "meta_info": {
+      "timestamp": "2023-06-29",
+      "city": "Pokhara",
+      "store": "Chipledhunga"
+    },
+    "basket": {
+      "product": "Hat",
+      "quantity": 4,
+      "unit_price": 921
+    },
+    "customer": {
+      "gender": 99,
+      "age": "unknown"
+    },
+    "payment_method": "Card",
+    "status": "COMPLETED"
+  }
+]

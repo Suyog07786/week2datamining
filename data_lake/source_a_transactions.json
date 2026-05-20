@@ -1,0 +1,1 @@
+[{"transaction_id": "TXN00001", "meta_info": {"timestamp": "2026-05-20", "city": "Kathmandu", "store": "S1"}, "basket": [{"product": "Apples", "quantity": 1, "unit_price": 100}], "customer": {"gender": "M", "age": 22, "payment_method": "E-Sewa"}}]

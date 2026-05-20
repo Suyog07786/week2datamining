@@ -1,0 +1,2 @@
+transaction_id,timestamp,city,store,product,quantity,unit_price,gender,age,payment_method
+TXN00001,2026-05-20,Kathmandu,S1,Apples,1,100,M,22,E-Sewa
